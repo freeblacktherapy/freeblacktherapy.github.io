@@ -1,4 +1,4 @@
-DirectoryIndex home.html donate.html
+# DirectoryIndex home.html donate.html
 
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
