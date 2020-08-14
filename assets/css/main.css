@@ -1,5 +1,4 @@
 @import url(font-awesome.min.css);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
 
 /*
 	Spatial by TEMPLATED
@@ -3133,7 +3132,6 @@
 
 			#banner {
 				padding: 9em 0 7em 0;
-				background-image: url("../../images/backgroundsmall.jpg");
 			}
 
 		}
@@ -3142,7 +3140,6 @@
 
 			#banner {
 				padding: 6em 2em 6em 2em;
-				background-image: url("../../images/backgroundsmall.jpg");
 			}
 
 				#banner br {
@@ -3163,7 +3160,6 @@
 
 			#banner {
 				padding: 4em 2em 4em 2em;
-				background-image: url("../../images/backgroundsmall.jpg");
 			}
 
 		}
