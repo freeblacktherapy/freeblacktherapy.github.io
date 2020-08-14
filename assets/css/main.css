@@ -3096,6 +3096,11 @@
 		line-height: 1.75;
 		text-align: center;
 	}
+@media only screen and (max-width: 800px) {
+      #banner { 
+            background-image: url("../../images/backgroundsmall.jpg"); 
+        }
+
 
 		#banner:last-child {
 			margin-bottom: 0;
