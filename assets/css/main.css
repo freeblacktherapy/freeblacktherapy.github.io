@@ -3096,10 +3096,6 @@
 		line-height: 1.75;
 		text-align: center;
 	}
-@media only screen and (max-width: 800px) {
-      #banner { 
-            background-image: url("../../images/backgroundsmall.jpg"); 
-        }
 
 
 		#banner:last-child {
@@ -3137,6 +3133,7 @@
 
 			#banner {
 				padding: 9em 0 7em 0;
+				background-image: url("../../images/backgroundsmall.jpg");
 			}
 
 		}
@@ -3145,6 +3142,7 @@
 
 			#banner {
 				padding: 6em 2em 6em 2em;
+				background-image: url("../../images/backgroundsmall.jpg");
 			}
 
 				#banner br {
@@ -3165,6 +3163,7 @@
 
 			#banner {
 				padding: 4em 2em 4em 2em;
+				background-image: url("../../images/backgroundsmall.jpg");
 			}
 
 		}
