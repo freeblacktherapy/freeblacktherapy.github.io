@@ -3082,6 +3082,12 @@
 
 /* Banner */
 
+@media (max-width: 768px) {  
+  #banner{
+  	background-attachment:scroll;
+  }
+}
+
 	body.is-touch #banner {
 		background-attachment: scroll;
 	}
