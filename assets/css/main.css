@@ -3082,7 +3082,7 @@
 
 /* Banner */
 
-@media (max-width: 768px) {  
+@media (max-width: 990px) {  
   #banner{
   	background-attachment:scroll;
   }
