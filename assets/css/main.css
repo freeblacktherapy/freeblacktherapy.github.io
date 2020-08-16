@@ -2715,6 +2715,12 @@
 
 /* Wrapper */
 
+@media (max-width: 990px) {  
+  #four{
+  	background-attachment:scroll;
+  }
+}
+
 	body.is-touch .wrapper.style3 {
 		background-attachment: scroll;
 	}
