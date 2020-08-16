@@ -3094,7 +3094,7 @@
 
 	#banner {
 		padding: 16em 0 13em 0;
-		background-attachment: fixed;
+		background-attachment: scroll;
 		background-image: url("images/overlay.png"), url("../../images/background.jpg");
 		background-position: center top;
 		background-size: cover;
