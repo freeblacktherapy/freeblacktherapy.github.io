@@ -3088,19 +3088,13 @@
 
 /* Banner */
 
-@media (max-width: 990px) {  
-  #banner{
-  	background-attachment:scroll;
-  }
-}
-
 	body.is-touch #banner {
 		background-attachment: scroll;
 	}
 
 	#banner {
 		padding: 16em 0 13em 0;
-		background-attachment: scroll;
+		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/background.jpg");
 		background-position: center top;
 		background-size: cover;
@@ -3145,6 +3139,8 @@
 
 			#banner {
 				padding: 9em 0 7em 0;
+				background-attachment:scroll;
+
 
 			}
 
